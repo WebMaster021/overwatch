@@ -1,0 +1,13 @@
+@import 'tailwindcss';
+
+body {
+    background-color: #0a0a0a; /* Deep Black */
+    color: #00ff00; /* Terminal Green */
+    font-family: 'Courier New', Courier, monospace; /* Monospace for tactical feel */
+}
+
+@theme {
+    --color-terminal-green: '#0f0';
+    --color-terminal-black: '#0a0a0a';
+    --color-rader-red: '#ff0000';
+}
