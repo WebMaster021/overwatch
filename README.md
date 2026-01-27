@@ -1,6 +1,6 @@
 # 🛡️ Project Overwatch (Real-Time GPS Tracking System)
 
-A Full-Stack Military Simulation Dashboard that tracks assets in real-time using a **Spring Boot** backend and a **React/Leaflet** visualization layer.
+A Full-Stack Military Simulation Dashboard that tracks assets. using a **Spring Boot** backend and a **React/Leaflet** visualization layer.
 
 ## 🚀 Key Features
 * **Real-Time Telemetry:** Backend simulates GPS movement and battery drain for multiple units every 2 seconds.
